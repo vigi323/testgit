@@ -7,4 +7,5 @@ Creating a new branch is quick and simple.
 ddddd
 vigi test
 fix bug
+fix bug-001
 
